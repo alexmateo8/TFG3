@@ -1,5 +1,4 @@
 # TFG3
 
 El principal objectiu del projecte consisteix en l'estudi teòric, comprensió i desenvolupament d’un algoritme basat en la tècnica de “machine learning” anomenada aprenentatge incremental la qual pot oferir un conjunt ampli de possibilitats en el món del “machine learning”.  
-La tesis es basarà en el desenvolupament d’un sistema capaç de incrementar el número de classes de la xarxa a mesura que a l’entrada es tinguin de noves mantenint els resultats de les classes anteriors ja reconegudes evitant el principal problema d’aquestes tècniques anomenat oblit catastròfic. 
-
+Aquest GitHub mostra el codi utilitzat durant el desenvolupament del projecte. El codi proporcionat proporcionen els millors resultats presentats en la tesis. També hi ha diferents opcions d'implementació en algunes seccions de l'algoritme, permet a l'usuari provar diferents opcions que l'autor ha rebutjat per millor funcionament d'unes altres.
