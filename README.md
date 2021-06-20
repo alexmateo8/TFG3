@@ -6,3 +6,9 @@ Aquest GitHub mostra el codi utilitzat durant el desenvolupament del projecte. E
 Experiments realitzats amb CIFAR 10 i CIFAR 100.
 
 L'algoritme està dividit en diverses parts. Depenent de la base de dades amb la qual es vol realitzar l'experiment:
+  - Per realitzar un experiment amb CIFAR 10, executar el fitxer de phython main
+  - Per realitzar un experiment amb CIFAR 100, executar el fitxer de phython main_cifar_100
+
+El desenvolupament de l'algoritme està implementat en la secció iCaRL.
+Finalment es poden trobar altres fitxers com poden ser data_loader que permet carregar les bases de dades. Metrica proporciona els resultats de precisió i plots per guardar les corbes d'aprenentatge i els gràfics de precisió. A més, save_load permet emmagatzemar el millor model i pretrained_resnet permet carregar la ResNet 50 preentrenada amb ImageNet.
+
